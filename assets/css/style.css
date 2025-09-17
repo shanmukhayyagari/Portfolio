@@ -1918,7 +1918,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   display: inline-flex;
   align-items: center;
   background: hsla(0, 0%, 100%, 0.1);
-  color: #dde3f4;
+  color: white;
   border-radius: 20px;
   padding: 10px 20px;
   font-weight: 600;
